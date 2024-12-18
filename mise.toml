@@ -1,0 +1,2 @@
+[env]
+_.mise-env-pass = { TESTA = "github" }
